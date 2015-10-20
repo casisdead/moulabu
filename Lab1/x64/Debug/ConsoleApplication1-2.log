@@ -1,0 +1,19 @@
+﻿Сборка начата 20.10.2015 11:39:37.
+     1>Проект "C:\Users\кэс\Desktop\Lab-master\Lab1\ConsoleApplication1-2.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         E:\vs\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt Source.cpp
+         Source.cpp
+     1>Source.cpp(44): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+     1>Source.cpp(88): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+     1>Source.cpp(103): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+     1>Source.cpp(117): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+     1>Source.cpp(144): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+     1>Source.cpp(148): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+       Link:
+         E:\vs\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\кэс\Desktop\Lab-master\Lab1\x64\Debug\ConsoleApplication1-2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\кэс\Desktop\Lab-master\Lab1\x64\Debug\ConsoleApplication1-2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\кэс\Desktop\Lab-master\Lab1\x64\Debug\ConsoleApplication1-2.lib" /MACHINE:X64 x64\Debug\Source.obj
+         ConsoleApplication1-2.vcxproj -> C:\Users\кэс\Desktop\Lab-master\Lab1\x64\Debug\ConsoleApplication1-2.exe
+     1>Сборка проекта "C:\Users\кэс\Desktop\Lab-master\Lab1\ConsoleApplication1-2.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:12.48
